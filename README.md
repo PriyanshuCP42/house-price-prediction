@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)]()
 [![Scikit-Learn](https://img.shields.io/badge/ML-Random%20Forest-green.svg)]()
 
-🔗 **Live Application:** https://your-app.streamlit.app  
+🔗 **Live Application:** [https://your-app.streamlit.app](https://house-price-prediction-genai.streamlit.app/)  
 
 ---
 
