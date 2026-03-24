@@ -262,9 +262,25 @@ reportlab>=4.0.0
 
 ---
 
-## 💡 Author
+## 👥 Contributors
 
-Machine Learning & Data Science Project  
-Built with Python, Scikit-learn, Streamlit & Plotly  
+**Priyanshu Agrahari — Team Lead & ML Pipeline Architect**  
+- Led end-to-end project execution and team coordination  
+- Designed and implemented the complete ML pipeline (preprocessing → feature engineering → model training → evaluation)  
+- Contributed to key modeling decisions and performance improvements  
+- Built and deployed the Streamlit application  
+
+**Mihika Mathur**  
+- Implemented and trained the Random Forest model  
+- Contributed to feature engineering and model optimization  
+- Assisted in evaluation and performance tuning  
+
+**Vishuti Jamwal**  
+- Conducted dataset research and data understanding  
+- Managed documentation and reporting  
+- Performed validation and testing  
+
+**Abhijeet**  
+- Supported validation, testing, and model review  
 
 ---
